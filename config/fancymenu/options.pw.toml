@@ -3,6 +3,6 @@ filename = "options.txt"
 side = "client"
 
 [download]
-url = "https://luminamodpack.netlify.app/cdn/fancymenu/options.txt"
+url = "https://cdn.jsdelivr.net/gh/Lumina-CC/modpack@master/cdn/fancymenu/options.txt"
 hash-format = "sha1"
-hash = "da5c73b5208df691798e67f6f59811c9257d535e"
+hash = "ea80afd91768a0098b135775c43014d1556bf349"

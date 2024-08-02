@@ -2,16 +2,16 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/dynamic_fps.pw.toml"
-hash = "3984429862485d5be015cc9559740cb54ca92ad3f418ce60ada5a5b28f2368f3"
+hash = "b70ad6bf90af09c466073aea30260831c64b775ee7c32dd369335c17263fc17b"
 metafile = true
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.toml"
-hash = "d93059cdad392550cddea951de20b2ad7900f957022da1c07298a5398ebe9828"
+hash = "82776bf98fe8e847fbe6d1684595193ece8d320143129adf07f83fe95df7c665"
 
 [[files]]
 file = "config/fancymenu/options.pw.toml"
-hash = "65d4453916f3d9a45200104101c9efdf7ed36e63e18114a2ee8557649a117be8"
+hash = "0965b949b2da2684b798d3ab16670111c6d2b881b0b46b151dc12b90e0476485"
 metafile = true
 
 [[files]]
