@@ -1,0 +1,8 @@
+name = "fancymenu-title_screen_layout"
+filename = "title_screen_layout.txt"
+side = "client"
+
+[download]
+url = "/cdn/fancymenu/customization/title_screen_layout.txt"
+hash-format = "sha1"
+hash = "2fd2f4d9aa11de32b9328922ba37f389fb8a32a5"

@@ -1,0 +1,8 @@
+name = "fancymenu-options"
+filename = "options.txt"
+side = "client"
+
+[download]
+url = "/cdn/fancymenu/options.txt"
+hash-format = "sha1"
+hash = "da5c73b5208df691798e67f6f59811c9257d535e"

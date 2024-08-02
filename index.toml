@@ -1,6 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dynamic_fps.pw.toml"
+hash = "111ac4edce69d72be24b0547b859549769973bbe60f917a2063a7e5bcb36080f"
+metafile = true
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.toml"
+hash = "13abcac74cf756fa64bf6e3705d01ef1a29d26de44bf86ec5513a8c7226ab420"
+
+[[files]]
+file = "config/fancymenu/options.pw.toml"
+hash = "eff782bb1deccb9deef79cd6656d1c3dfca1b35267d81cfe08a46bd516cc00e5"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "64d78922bc5e9e825411bada42be1ee6816da1f6e419d6034089b3d3b85da2fb"
 metafile = true
@@ -42,7 +56,12 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "f08086c797096ec7cea728330085f68f4d7f505938855a9b06f3c4c64a7bf6af"
+hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
