@@ -1,8 +1,7 @@
-name = "fancymenu-options"
+name = "options"
 filename = "options.txt"
-side = "client"
 
 [download]
-url = "https://cdn.jsdelivr.net/gh/Lumina-CC/modpack@master/cdn/fancymenu/options.txt"
-hash-format = "sha1"
-hash = "ea80afd91768a0098b135775c43014d1556bf349"
+url = "https://lumina-cc.github.io/modpack/cdn/fancymenu/options.txt"
+hash-format = "sha256"
+hash = "9d9fcbbf79a270051d3a8148d018fc687fdc212c03e5f273487534ecf2cb4658"

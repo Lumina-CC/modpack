@@ -1,8 +1,0 @@
-name = "fancymenu-title_screen_layout"
-filename = "title_screen_layout.txt"
-side = "client"
-
-[download]
-url = "https://cdn.jsdelivr.net/gh/Lumina-CC/modpack@master/cdn/fancymenu/customization/title_screen_layout.txt"
-hash-format = "sha1"
-hash = "a6b66ba915ea97450f4e08502f5690fdfee83cf3"

@@ -1,8 +1,0 @@
-name = "dynamic_fps"
-filename = "dynamic_fps.json"
-side = "client"
-
-[download]
-url = "https://cdn.jsdelivr.net/gh/Lumina-CC/modpack@master/cdn/dynamic_fps.json"
-hash-format = "sha1"
-hash = "5ba4f81e84b25760c0585ec5249da100268fbb17"
