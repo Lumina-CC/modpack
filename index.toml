@@ -1,31 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "cdn/dynamic_fps.json"
+file = "config/dynamic_fps.json"
 hash = "b6634c21f90494f4f9492ea9793f12590273a025517081d0616e62f4cda599f8"
 
 [[files]]
-file = "cdn/fancymenu/customization/title_screen_layout.txt"
+file = "config/fancymenu/customization/title_screen_layout.txt"
 hash = "fb67336d4522c8b106d11707929abe36f18117fe4937eba0c86641654c381acd"
 
 [[files]]
-file = "cdn/fancymenu/options.txt"
+file = "config/fancymenu/options.txt"
 hash = "72edccbc5f879041f1076fbaa167f38bc0f222dac46cc629ce99342813cff1b0"
-
-[[files]]
-file = "config/dynamic-fps.pw.toml"
-hash = "fc7d23008ed1e47a14a891c3b4dd8344112ed746f664f906045799591cb2d833"
-metafile = true
-
-[[files]]
-file = "config/fancymenu/options.pw.toml"
-hash = "77574ed3bf0f957e62a5f9156fb363fdb3f04a9f5ab05934719f264a0dfba903"
-metafile = true
-
-[[files]]
-file = "config/fancymenu/title-screen-layout.pw.toml"
-hash = "bdbf9a8c3de9b84d0e0fa0e9ccc899fb988bc0704e291813af5cd2c8d0ab63a2"
-metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"

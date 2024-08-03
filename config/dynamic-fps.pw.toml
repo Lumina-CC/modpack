@@ -1,7 +1,0 @@
-name = "dynamic_fps"
-filename = "dynamic_fps.json"
-
-[download]
-url = "https://lumina-cc.github.io/modpack/cdn/dynamic_fps.json"
-hash-format = "sha256"
-hash = "79119831e9647f49b738a9f6027a000a247aed97f56aeea2fd922cb7bc5643ba"
