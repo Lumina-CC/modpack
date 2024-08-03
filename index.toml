@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "702866dd5048edb79f79d3272d428e6448ce5ec418d30da907d70d46714a4b5c"
+
+[[files]]
+file = "cdn/dynamic_fps.json"
+hash = "b6634c21f90494f4f9492ea9793f12590273a025517081d0616e62f4cda599f8"
+
+[[files]]
+file = "cdn/fancymenu/customization/title_screen_layout.txt"
+hash = "fb67336d4522c8b106d11707929abe36f18117fe4937eba0c86641654c381acd"
+
+[[files]]
+file = "cdn/fancymenu/options.txt"
+hash = "72edccbc5f879041f1076fbaa167f38bc0f222dac46cc629ce99342813cff1b0"
+
+[[files]]
 file = "config/dynamic_fps.pw.toml"
 hash = "b70ad6bf90af09c466073aea30260831c64b775ee7c32dd369335c17263fc17b"
 metafile = true
@@ -16,32 +32,37 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "64d78922bc5e9e825411bada42be1ee6816da1f6e419d6034089b3d3b85da2fb"
+hash = "65e1fe7421a384e0126d7b646f28370d87e88fd22da1789c3461720a70a61a35"
 metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
+hash = "0c7b14af1b13e8691e7e1b0972ff988c54ad2a3239255f7ee7cc77abc54bbda0"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "b79cc58d8f59edf82a64eac716b84f11911b2bc63c40529575dbaf67f4896efb"
+hash = "8b4722a423acf71474ec970b2bfb6f2044b9eb0d18d69db466fe6d4594976299"
 metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
+hash = "4956815dda9aa1730dff3702e7ef14eaef6bb9b5b1e566e2c2fb29454804440c"
 metafile = true
 
 [[files]]
 file = "mods/cyberanner-ironchest.pw.toml"
-hash = "f3586fdb624c6f02d881e9921073d9f217e09bb815ccafab83a55b0cc61fd283"
+hash = "20eab0525ac548876a42fecf64634806024634dac30f947491137abece62869d"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c95275cea31ddab49f8c43892450e6756c70479000b55d26de27dc8fe26ef53b"
+hash = "628f03e113a037d922a3a9affcda25e10d31fa48abc3759d98a9ee8e84ee4136"
+metafile = true
+
+[[files]]
+file = "mods/embeddedcomputer.pw.toml"
+hash = "f32d6b7ac7e671f1f66fd827ee91c64a2dc5d8988ab2b78962228fa477934f6b"
 metafile = true
 
 [[files]]
@@ -51,70 +72,80 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "2f18a3a8ce14da4bda03e29a38f3cb9e5d3592ffaff5bee005e7944d4dc5bbfb"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
+hash = "8f0de9dc1f6e268ab3b961cea6e845a10687ecbd40b4aec3fbee25634470462b"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+hash = "c5ca9967debdd43e30e2bd62e5133816ca4df71b540cceb06eb321d5f525224e"
 metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+hash = "756619ba45f53332b5bdfa6c28b9146401ad6ebe130943f4ab772dd11b9961ee"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+hash = "9d29339a6ae2413f2b1e77d81fec8b4288dcc9de6aa848fc2ed52028b17ea8e3"
+metafile = true
+
+[[files]]
+file = "mods/lcc-peripherals.pw.toml"
+hash = "8e5d08c3ace85bdc10881c1440a57acafbf926e7543272c7ba80e01196b2e303"
+metafile = true
+
+[[files]]
+file = "mods/lcc-server.pw.toml"
+hash = "d8c47726e53423ffd82226e0a5a0e51fad8af7d487846fb358397b7b092b2d0d"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+hash = "6ccdedbcab01af6b64bf08338c6341a16efe907a71cca5b398192c75fbcc07c8"
 metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "e1268d8b92c7a8b58dd205b613dedfc860af686190b15d531fe2552af449485f"
+hash = "e770e90470062eb3261cbd8193c84b05b63d1bacde8c610b110642a3ee9720ee"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+hash = "0e76e306423a6c04fc5496bc5321638be9b06149e9b4b9f267fad3fabca3bbae"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bbc45f671b446c7c341775e6f30f6585f8c519fc41308e834ded56e4d1c03f88"
+hash = "4e13389756716b48c9636e61698698e8f32cfd895e01bc7d51cc97b6f45a6ea8"
 metafile = true
 
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
-hash = "634e9ad89419dd15aeffcaabe46396d00753e8bcb68a7e2c318061100a5ec10f"
+hash = "70aac16d0e95fdbbe21774cd90ed4563eeeea0dcc4b710221e203691d8e95ab7"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "cd7b16dc449e4795d9bda1a38a20e2a2a835064e92cf47b28a29d03388a43ed5"
+hash = "3f8d3aa757fc286806612756b174e5e40b2951c90021e8e143f52cb190eb1971"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+hash = "bf94b341961f78ae9e584884bec9abcb156eee5e048bfa783cde506e47bb769b"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "89f7693f7a01cff27f51b9b68a4fdfec49a59177b1e1e173bbcaef06f892d7e7"
+hash = "d8644c5cec59d1d9449d3264b3c75637378313751af8654ae86ec462fe9fd1e5"
 metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+hash = "501935c3bb6ef85b78bdba31dcc4fc55546da0b62ae06c50c8f47e6afb1caf79"
 metafile = true

@@ -1,0 +1,8 @@
+name = "lcc-server"
+filename = "lcc-server-0.1.jar"
+side = "server"
+
+[download]
+url = "https://github.com/Lumina-CC/lcc-server/releases/download/v0.1/lcc-server-0.1.jar"
+hash-format = "sha256"
+hash = "ea3d6bd0a28ae1eafb1ea3f66cdd5ddb1d72228cce8baf736119d1d4da44d887"

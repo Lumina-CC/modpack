@@ -1,0 +1,7 @@
+name = "lcc-peripherals"
+filename = "lcc-peripherals-1.10.6.jar"
+
+[download]
+url = "https://github.com/Lumina-CC/lcc-peripherals/releases/download/v1.10.6/lcc-peripherals-1.10.6.jar"
+hash-format = "sha256"
+hash = "ace3ca7b1a33c0c0be84178d7d1eab0459793aa0d09af8a40ad0f37c0c711312"
