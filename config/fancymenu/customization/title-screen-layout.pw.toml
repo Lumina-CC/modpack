@@ -1,0 +1,7 @@
+name = "title_screen_layout"
+filename = "title_screen_layout.txt"
+
+[download]
+url = "https://lumina-cc.github.io/modpack/cdn/fancymenu/customization/title_screen_layout.txt"
+hash-format = "sha256"
+hash = "fb67336d4522c8b106d11707929abe36f18117fe4937eba0c86641654c381acd"

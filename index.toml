@@ -13,6 +13,21 @@ file = "cdn/fancymenu/options.txt"
 hash = "72edccbc5f879041f1076fbaa167f38bc0f222dac46cc629ce99342813cff1b0"
 
 [[files]]
+file = "config/dynamic-fps.pw.toml"
+hash = "03038247520e2a3aa3007fceffc6b6e4a6c2668900a2b7cfd63ccbafbb3c42f5"
+metafile = true
+
+[[files]]
+file = "config/fancymenu/customization/title-screen-layout.pw.toml"
+hash = "16d7179c263d8d3812a9b1657ccbd14874849983a3e27d4af28a701783983e88"
+metafile = true
+
+[[files]]
+file = "config/fancymenu/options.pw.toml"
+hash = "49862524a904116779ef12cd3751d602168344cf767587bcfe823a50d0117788"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "64d78922bc5e9e825411bada42be1ee6816da1f6e419d6034089b3d3b85da2fb"
 metafile = true
