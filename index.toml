@@ -47,6 +47,11 @@ hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "91df4f6230a0b330a2c9b4b724c8c16b138b038b1d1d09339f607c9f81cc6a34"
+metafile = true
+
+[[files]]
 file = "mods/cc-cosmetics.pw.toml"
 hash = "965deaf0358632661e01a8bf95b77009f557d83366fefb164eb02874fa031ff0"
 metafile = true
@@ -74,6 +79,11 @@ metafile = true
 [[files]]
 file = "mods/embeddedcomputer.pw.toml"
 hash = "f32d6b7ac7e671f1f66fd827ee91c64a2dc5d8988ab2b78962228fa477934f6b"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "c454a8e8462d84f82683b3d567ffcfdceba052fc70491486ae8e8484f9eac988"
 metafile = true
 
 [[files]]
@@ -122,6 +132,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
@@ -144,6 +159,16 @@ metafile = true
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
 hash = "634e9ad89419dd15aeffcaabe46396d00753e8bcb68a7e2c318061100a5ec10f"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-barrels.pw.toml"
+hash = "a302e6874a731ab5f1a0073b346505152c8b2a215ac8ae67a01e0a1631ec569a"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-shulker-boxes.pw.toml"
+hash = "2d8a93af767bb965505d115af079b716fff82e67f5672f91dad22efd6df885e2"
 metafile = true
 
 [[files]]
