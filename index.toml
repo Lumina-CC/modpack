@@ -42,6 +42,16 @@ hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
 metafile = true
 
 [[files]]
+file = "mods/blahaj_fabric.pw.toml"
+hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
+metafile = true
+
+[[files]]
+file = "mods/cc-cosmetics.pw.toml"
+hash = "965deaf0358632661e01a8bf95b77009f557d83366fefb164eb02874fa031ff0"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "762698b08bae0c30811b0fde3da7733535799157e277e025309b7723f292b70c"
 metafile = true
@@ -117,6 +127,11 @@ hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f6939dfffd06e01959bb07d1a4896333dacf08b7d284761acacd4d436a581bcf"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
@@ -137,13 +152,28 @@ hash = "cd7b16dc449e4795d9bda1a38a20e2a2a835064e92cf47b28a29d03388a43ed5"
 metafile = true
 
 [[files]]
+file = "mods/slabs-expanded.pw.toml"
+hash = "6b7f269170765eb2b6afcca314e6d6d3cf83a32bfe469a916394aa745a0d4bdf"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "5f2efbb6362b829766025b8714593308f89fd46b05a36e302c760227e6611304"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "89f7693f7a01cff27f51b9b68a4fdfec49a59177b1e1e173bbcaef06f892d7e7"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "715238672c12a843ccaee2b423314e78f28f38e526822215c1b398877c51fbc5"
 metafile = true
 
 [[files]]

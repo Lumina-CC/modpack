@@ -1,12 +1,12 @@
 name = "LuminaCC"
 author = "The LuminaCC team"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "338cdc28023753313459a5659414ea8363827e0e4d5c34d30946b3ff58ede5b0"
+hash = "a489aeb6665ccc3b00741187b8e81051a6720e75fb904d2ef9b12627139f2458"
 
 [versions]
 fabric = "0.16.0"
