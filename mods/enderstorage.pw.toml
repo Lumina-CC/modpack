@@ -1,0 +1,7 @@
+name = "enderstorage"
+filename = "enderstorage-1.0.jar"
+
+[download]
+url = "https://github.com/Lumina-CC/enderstoragefabric/releases/download/v1.0/enderstorage-1.0.jar"
+hash-format = "sha256"
+hash = "7616ba94b672030ea2598c5fe4247fbc5f34de4b93799e3024a09ef15c54d890"

@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "3e23a42f542fb846559279528af6e5991e2ac956bbb4bb84d9ec6d557bad4cc1"
-
-[[files]]
 file = "cdn/dynamic_fps.json"
 hash = "b6634c21f90494f4f9492ea9793f12590273a025517081d0616e62f4cda599f8"
 
@@ -79,6 +75,11 @@ metafile = true
 [[files]]
 file = "mods/embeddedcomputer.pw.toml"
 hash = "f32d6b7ac7e671f1f66fd827ee91c64a2dc5d8988ab2b78962228fa477934f6b"
+metafile = true
+
+[[files]]
+file = "mods/enderstorage.pw.toml"
+hash = "60bcbba57a0c18c8ed48f6f03470443740f73336aab654dcbb8751cb55986b26"
 metafile = true
 
 [[files]]
