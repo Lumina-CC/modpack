@@ -108,11 +108,6 @@ hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
 metafile = true
 
 [[files]]
-file = "mods/female-gender.pw.toml"
-hash = "03f0dc19f23f85b0886b504005972e754037b2f4879016cb11b855a1947b7cd1"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
