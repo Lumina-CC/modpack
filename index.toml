@@ -73,11 +73,6 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
-file = "mods/cyberanner-ironchest.pw.toml"
-hash = "f3586fdb624c6f02d881e9921073d9f217e09bb815ccafab83a55b0cc61fd283"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "c95275cea31ddab49f8c43892450e6756c70479000b55d26de27dc8fe26ef53b"
 metafile = true
