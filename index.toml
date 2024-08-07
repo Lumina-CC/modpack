@@ -108,6 +108,11 @@ hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "2bd34b05c6028e28476426b00166378845aac5c0cbbcadf72f94d31f7754ab67"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
