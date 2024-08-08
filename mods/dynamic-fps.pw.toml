@@ -11,3 +11,6 @@ hash = "ab03253b89bd8275c9b187126438a7400930f128"
 [update.modrinth]
 mod-id = "LQ3K71Q1"
 version = "GtitXgiZ"
+
+[option]
+optional = true

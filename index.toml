@@ -73,8 +73,13 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight-fabric.pw.toml"
+hash = "241b3fbc302d617ddb95fd47ac8e609b458a5472753c5ac49bcab306f4ac864a"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c95275cea31ddab49f8c43892450e6756c70479000b55d26de27dc8fe26ef53b"
+hash = "ce508a04b5e08ff959414c58630a9f8ca7cb4fe1f43d15ea244a75f04b8e2fe1"
 metafile = true
 
 [[files]]
@@ -108,8 +113,13 @@ hash = "2bd34b05c6028e28476426b00166378845aac5c0cbbcadf72f94d31f7754ab67"
 metafile = true
 
 [[files]]
+file = "mods/farmers-knives.pw.toml"
+hash = "4e186b045f50afe1e19198bbd79b6e32219312a7565fd48f077d3c08ffe20996"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
-hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+hash = "2cc7618c1c26c55f71a24dda9b538e696ca467ff98b4fed16f2cae2cee194447"
 metafile = true
 
 [[files]]
@@ -163,6 +173,11 @@ hash = "bbc45f671b446c7c341775e6f30f6585f8c519fc41308e834ded56e4d1c03f88"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "672ed4c751ebc1dfd02ab07da49457b346e90df38fa73fcba9ac6dff41c96114"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -189,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+hash = "223011e05caeba8f7b88dccca121789bdc0d518a860ca6f4e86ef47b18086649"
 metafile = true
 
 [[files]]
@@ -205,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "5f2efbb6362b829766025b8714593308f89fd46b05a36e302c760227e6611304"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "d1ff3f2314600a2d9c32f7020bc5ac6a92783d20087b77e609d03f38668dfc00"
 metafile = true
 
 [[files]]
