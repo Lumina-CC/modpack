@@ -28,6 +28,11 @@ hash = "49862524a904116779ef12cd3751d602168344cf767587bcfe823a50d0117788"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "30f6a07aacfc0b9a5038a3e5261f231e81af3b6388cf473c87f978f4e2fb9347"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "64d78922bc5e9e825411bada42be1ee6816da1f6e419d6034089b3d3b85da2fb"
 metafile = true
@@ -118,6 +123,11 @@ hash = "4e186b045f50afe1e19198bbd79b6e32219312a7565fd48f077d3c08ffe20996"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "e6a6e00decbfb4fd1176a2cfff45476d18b13f37d5097b88361da6af8dedc9f2"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "2cc7618c1c26c55f71a24dda9b538e696ca467ff98b4fed16f2cae2cee194447"
 metafile = true
@@ -185,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
 hash = "634e9ad89419dd15aeffcaabe46396d00753e8bcb68a7e2c318061100a5ec10f"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "8df6f4418a1baf4bbf362668d8302683976ff126223b9fdf7f952490aebd072c"
 metafile = true
 
 [[files]]
