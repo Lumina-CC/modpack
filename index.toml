@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CNAME"
-hash = "7bb389621152b02f69b2953d6e0085ef69c34e816988078d8e82f84adb2d9aca"
-
-[[files]]
-file = "cdn/dynamic_fps.json"
-hash = "b6634c21f90494f4f9492ea9793f12590273a025517081d0616e62f4cda599f8"
-
-[[files]]
-file = "cdn/fancymenu/customization/title_screen_layout.txt"
-hash = "fb67336d4522c8b106d11707929abe36f18117fe4937eba0c86641654c381acd"
-
-[[files]]
-file = "cdn/fancymenu/options.txt"
-hash = "72edccbc5f879041f1076fbaa167f38bc0f222dac46cc629ce99342813cff1b0"
-
-[[files]]
 file = "config/dynamic-fps.pw.toml"
 hash = "03038247520e2a3aa3007fceffc6b6e4a6c2668900a2b7cfd63ccbafbb3c42f5"
 metafile = true
