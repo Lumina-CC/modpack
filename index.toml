@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CNAME"
+hash = "7bb389621152b02f69b2953d6e0085ef69c34e816988078d8e82f84adb2d9aca"
+
+[[files]]
 file = "cdn/dynamic_fps.json"
 hash = "b6634c21f90494f4f9492ea9793f12590273a025517081d0616e62f4cda599f8"
 
@@ -210,6 +214,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "cd7b16dc449e4795d9bda1a38a20e2a2a835064e92cf47b28a29d03388a43ed5"
+metafile = true
+
+[[files]]
+file = "mods/simplechunkloader.pw.toml"
+hash = "f8445f5cca1d2daf2e72799d72f4cd19a9930471cbd07672113cdc0351187984"
 metafile = true
 
 [[files]]
