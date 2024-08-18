@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/simplechunkloader.pw.toml"
-hash = "f8445f5cca1d2daf2e72799d72f4cd19a9930471cbd07672113cdc0351187984"
+hash = "c39361037c78094239c0a124c4a58a7728a93595bc47843bbec77adc1a791683"
 metafile = true
 
 [[files]]
