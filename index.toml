@@ -41,11 +41,6 @@ hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "91df4f6230a0b330a2c9b4b724c8c16b138b038b1d1d09339f607c9f81cc6a34"
-metafile = true
-
-[[files]]
 file = "mods/cc-cosmetics.pw.toml"
 hash = "965deaf0358632661e01a8bf95b77009f557d83366fefb164eb02874fa031ff0"
 metafile = true
