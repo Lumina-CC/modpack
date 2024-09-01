@@ -8,6 +8,7 @@ metafile = true
 [[files]]
 file = "config/fancymenu/customizablemenus.pw.toml"
 hash = "df973c95d5a6fb0e38843b0a2a23fd9f32a27c4ea2ae10ca275a33ed0b373a8e"
+metafile = true
 
 [[files]]
 file = "config/fancymenu/customization/title-screen-layout.pw.toml"
