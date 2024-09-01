@@ -1,0 +1,7 @@
+name = "customizablemenus"
+filename = "customizablemenus.txt"
+
+[download]
+url = "https://pack.luminacc.org/cdn/fancymenu/customizablemenus.txt"
+hash-format = "sha256"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"

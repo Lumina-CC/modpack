@@ -2,6 +2,6 @@ name = "options"
 filename = "options.txt"
 
 [download]
-url = "https://lumina-cc.github.io/modpack/cdn/fancymenu/options.txt"
+url = "https://pack.luminacc.org/cdn/fancymenu/options.txt"
 hash-format = "sha256"
 hash = "72edccbc5f879041f1076fbaa167f38bc0f222dac46cc629ce99342813cff1b0"
