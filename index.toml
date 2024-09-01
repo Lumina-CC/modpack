@@ -6,7 +6,7 @@ hash = "03038247520e2a3aa3007fceffc6b6e4a6c2668900a2b7cfd63ccbafbb3c42f5"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/customizablemenus.toml"
+file = "config/fancymenu/customizablemenus.pw.toml"
 hash = "df973c95d5a6fb0e38843b0a2a23fd9f32a27c4ea2ae10ca275a33ed0b373a8e"
 
 [[files]]
