@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "config/fancymenu/customization/title-screen-layout.pw.toml"
-hash = "adf3abe6806d864ec6b2449203a6958b2fca99aea999841f64ba66832c4ab864"
+hash = "c0f781c53e5e78801e89d56863c1f086b82922a5cdea2a5070dc63dd17411dff"
 metafile = true
 
 [[files]]
