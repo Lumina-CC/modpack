@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CNAME"
+hash = "7bb389621152b02f69b2953d6e0085ef69c34e816988078d8e82f84adb2d9aca"
+
+[[files]]
+file = "README.md"
+hash = "3e23a42f542fb846559279528af6e5991e2ac956bbb4bb84d9ec6d557bad4cc1"
+
+[[files]]
+file = "cdn/dynamic_fps.json"
+hash = "b6634c21f90494f4f9492ea9793f12590273a025517081d0616e62f4cda599f8"
+
+[[files]]
+file = "cdn/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "cdn/fancymenu/customization/title_screen_layout.txt"
+hash = "fcf0e0bb7677dd4146575261ca037c74fdb76fcac8fdb373de50bde9f2cd1572"
+
+[[files]]
+file = "cdn/fancymenu/options.txt"
+hash = "72edccbc5f879041f1076fbaa167f38bc0f222dac46cc629ce99342813cff1b0"
+
+[[files]]
 file = "config/dynamic-fps.pw.toml"
 hash = "03038247520e2a3aa3007fceffc6b6e4a6c2668900a2b7cfd63ccbafbb3c42f5"
 metafile = true
@@ -27,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "64d78922bc5e9e825411bada42be1ee6816da1f6e419d6034089b3d3b85da2fb"
+hash = "d2ff820d3f64aa84579d914f4241fe13d60de8be0ee9ffa6f58179eae41e2984"
 metafile = true
 
 [[files]]
@@ -57,32 +81,32 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
+hash = "41c81f095b5a96775d2cf261dc8350e8214ef3a12bfa608f2761634e8560cfb9"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
 
 [[files]]
 file = "mods/corn-delight-fabric.pw.toml"
-hash = "241b3fbc302d617ddb95fd47ac8e609b458a5472753c5ac49bcab306f4ac864a"
+hash = "e7798ade408061ed2df2b77831679ba0b7784bd94d7f3f43decbbc30a36681b4"
 metafile = true
 
 [[files]]
 file = "mods/distant-friends.pw.toml"
-hash = "f0dd64f71e05aac244d90ef4ea631f5312145f17c567b30f447d9e9b6847368e"
+hash = "70a60b44cb524e771c16d26a8e5ecdc0fd9f4c94a5e6280e3534ecfca45fd332"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ce508a04b5e08ff959414c58630a9f8ca7cb4fe1f43d15ea244a75f04b8e2fe1"
+hash = "144558324a9cc551381de8d167434147a4757f473b59e79eb8b56cdf6682a7a5"
 metafile = true
 
 [[files]]
 file = "mods/embeddedcomputer.pw.toml"
-hash = "f32d6b7ac7e671f1f66fd827ee91c64a2dc5d8988ab2b78962228fa477934f6b"
+hash = "6e025865874e85f3ac34dcf0192614bd3f7f698785ab4b7f5e09525dfa2e74bc"
 metafile = true
 
 [[files]]
@@ -92,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "ffefd82fd93e9a006db3a751c8acb29b7d119190ecc81de40eaa0c3a9375f884"
+hash = "a3124745545f667a1949522edc955fd3c0b6f62c321be7cfad45e5962c5cc98e"
 metafile = true
 
 [[files]]
@@ -102,17 +126,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
+hash = "9fc4d484263f74fb85c8b6630965a1ac96fc68b6e577dcceca6ac162bac84e36"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "2bd34b05c6028e28476426b00166378845aac5c0cbbcadf72f94d31f7754ab67"
+hash = "d7f5c29f51b6e866f2227936ca124123ef5794813b791faf04d9fa66723bf2ff"
 metafile = true
 
 [[files]]
@@ -127,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "e6a6e00decbfb4fd1176a2cfff45476d18b13f37d5097b88361da6af8dedc9f2"
+hash = "78f4313fe2ee827803c19bd930a3cae5685b049c6599a222023948969412c277"
 metafile = true
 
 [[files]]
@@ -172,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2af90dc135be56cc29483dde03e61c2e4560823995f158774ccdf5e141fac7da"
+hash = "7b709410f7b783c6a025d171e4f7d7a05173e4b940ed54e5563b402d4c312fc1"
 metafile = true
 
 [[files]]
@@ -182,17 +206,17 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bbc45f671b446c7c341775e6f30f6585f8c519fc41308e834ded56e4d1c03f88"
+hash = "3cd29f937a1272c48007e367452da9a4ef6254226c170de12fbde38077fd6bdc"
 metafile = true
 
 [[files]]
 file = "mods/more-delight.pw.toml"
-hash = "672ed4c751ebc1dfd02ab07da49457b346e90df38fa73fcba9ac6dff41c96114"
+hash = "fdac525059a68c32b0b2023dd59071c2b905d3790c7d82a8d7a2f902529dde09"
 metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "0985fd69d06dc4013e283230a0a13ea1685982c159204692afad9a4df5921588"
+hash = "13e67b24aec2300ae8d11b3d53473bdf42bdca0fb8f10f30885f8902f8cacde1"
 metafile = true
 
 [[files]]
@@ -212,12 +236,12 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "f6bab22238c39308fc1824e9bcecb9ab530c080ce1dc30c7337802ef3e00a481"
+hash = "6799b3e8cc9351dd5ffd130883a227170db1272f099d1077e8e4d2f4592a85ca"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "cd7b16dc449e4795d9bda1a38a20e2a2a835064e92cf47b28a29d03388a43ed5"
+hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
 metafile = true
 
 [[files]]
@@ -237,12 +261,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
-hash = "841d1da4cb9da9e83b7ac7a2104af1c49f1ffa4a9ad38a4bf0d138f1dac020f4"
+hash = "c684cb3293e699ff286e7fdb5804f147e9db6151c6436e1117a791784cb4ee3d"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-(unofficial-fabric-port).pw.toml"
-hash = "c13ca20b0d4c6ab19c4c531a4e2ba85c64df93a794a9dae3403d00a63fb5af20"
+hash = "a370f9192a7f4fb1ae4da751aba1c71ba94055278152e1ac3de3c1d6270c8b57"
 metafile = true
 
 [[files]]
@@ -252,12 +276,12 @@ metafile = true
 
 [[files]]
 file = "mods/storage-delight.pw.toml"
-hash = "d1ff3f2314600a2d9c32f7020bc5ac6a92783d20087b77e609d03f38668dfc00"
+hash = "234ce5636d288ff6fb86696ffb68ac72eba5ae76b3048d9df101120d65efe554"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "89f7693f7a01cff27f51b9b68a4fdfec49a59177b1e1e173bbcaef06f892d7e7"
+hash = "97acb27ee8b31a8877f74d9376a5e2d6c81b54a3359c85e9d3cb545050b98481"
 metafile = true
 
 [[files]]
