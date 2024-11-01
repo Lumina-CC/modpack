@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CNAME"
-hash = "7bb389621152b02f69b2953d6e0085ef69c34e816988078d8e82f84adb2d9aca"
-
-[[files]]
 file = "README.md"
 hash = "3e23a42f542fb846559279528af6e5991e2ac956bbb4bb84d9ec6d557bad4cc1"
 
