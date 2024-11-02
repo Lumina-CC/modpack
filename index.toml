@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/lcc-server.pw.toml"
-hash = "3f1aa97438f4d66cff787f5507b1ed282912c89b62ed9ff9ac7349e1e5461ace"
+hash = "cf97e0809ef8fa40617e20de3b0bf0f631f7fa3dea5448d0ea06e7aa1f82cef9"
 metafile = true
 
 [[files]]
