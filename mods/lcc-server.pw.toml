@@ -1,5 +1,6 @@
 name = "lcc-server"
 filename = "lcc-server-0.2.jar"
+side = "server"
 
 [download]
 url = "https://github.com/Lumina-CC/lcc-server/releases/download/v0.2/lcc-server-0.2.jar"
